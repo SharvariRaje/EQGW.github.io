@@ -19,10 +19,10 @@ var followPitch = 0;
 // to add 'driving' slides just make sure to add 'drive to beginning of slide id'
 // you also need to add a running total to the end of each 'drive-slide', (ex. drive-slide-0, drive-slide-1, drive-slide-2, etc.)
 var config = {
-    style: 'mapbox://styles/sharvarir/ck8ad7sna04231iql9xv29l89',
+    style: 'mapbox://styles/sharvarir/ckhlz0gr10rmw19pb8x3220tc',
     accessToken: 'pk.eyJ1Ijoic2hhcnZhcmlyIiwiYSI6ImNrMnE5NnU1eTBjcmwzZG13MWdscDZtN2QifQ.vOYM1-Wi9J-hRKHijcCJBg',
     showMarkers: false,
-    theme: 'light',
+    theme: 'dark',
     alignment: 'left',
     title: 'Cycling the EQGW',
     byline: 'By The EQGW Team + Transportation Alternatives',
